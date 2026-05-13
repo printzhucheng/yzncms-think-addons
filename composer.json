@@ -1,7 +1,7 @@
 {
-    "name": "yzncms/think-addons",
+    "name": "printzhucheng/yzncms-think-addons",
     "description": "addons package for yzncms",
-    "homepage": "https://github.com/ken678/think-addons",
+    "homepage": "https://github.com/printzhucheng/yzncms-think-addons",
     "license": "Apache-2.0",
     "authors": [
         {
@@ -10,7 +10,7 @@
         }
     ],
     "support": {
-        "issues": "https://gitee.com/ken678/YZNCMS/issues"
+        "issues": "https://github.com/printzhucheng/yzncms-think-addons/issues"
     },
     "require": {
         "php": ">=7.0.0",
